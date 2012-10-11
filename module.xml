@@ -1,0 +1,19 @@
+<module> 
+<rawname>configeditoradv</rawname> 
+<name>Config Editor (Advanced)</name> 
+<version>1.0.3</version> 
+<type>tool</type> 
+<category>Maintenance</category> 
+    <description>
+        Config Editor for FreePBX using the WEBSERVER security mode with all modules exposed. 
+    </description>
+	 <changelog>
+		*1.0.3* changed .htaccess to suit security model		
+		*1.0.2* Added .htaccess file so that only admin user can access it
+		*1.0.1* First Release as Full Module
+	</changelog>
+	<info>http://www.fonicaprojects.com/wiki/index.php/FreePBX_Module:_Config_Editor_(Advanced)</info>
+<menuitems> 
+<configeditoradv>Config Editor (Advanced)</configeditoradv> 
+</menuitems> 
+</module> 
